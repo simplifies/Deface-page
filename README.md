@@ -1,4 +1,4 @@
-Kinda clean, simple and lightweight hacked/pawned/deface page
+Kinda clean, simple and lightweight hacked/pwned/deface page
 
 Lang: html & css
 
