@@ -8,5 +8,5 @@ Lang: html & css
 - Add animations and graphics in the background
 
 <p>
-<img src="https://nasa.support/">
+<img src="https://nasa.support/defaced.png">
 </p>
