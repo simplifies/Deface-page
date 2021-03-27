@@ -1,6 +1,17 @@
-Kinda clean, simple and lightweight hacked/pwned/deface page
+Clean, simple and lightweight hacked/pwned/deface page
 
-Lang: html & css
+This "hacked"/"deface" page is open for you to use. Just don't take credit for my work
+
+**Features**
+- Binary type animation text
+- Rainbow instagram promote 
+- Clean and simple
+- Transitions
+- Fading animations
+- Lightweight
+
+
+Lang: html && css && js
 
 **To do:**
 - Add javascript pre-loader
